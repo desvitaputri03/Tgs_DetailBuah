@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas_DetailBuah</string>
+    <string name="st_apel" />
+    <string name="st_anggur" />
+    <string name="st_strawberry" />
+    <string name="st_pear" />
+    <string name="st_jeruk" />
+</resources>
